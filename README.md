@@ -1,10 +1,10 @@
 # LEDSpectrum-ESP32音乐频谱灯
 ## 一、整体介绍
 
-* 组装演示视频：https://b23.tv/UF5zSuX
+* 组装演示视频：[Bilibili](https://b23.tv/UF5zSuX)
 * 开源链接
     * GitHub仓库：[Fudan-EGA/LEDSpectrum](https://github.com/Fudan-EGA/LEDSpectrum)
-    * 国内仓库访问：https://gitee.com/leannnnnnn/ledspectrum
+    * 国内仓库访问：[leannnnnnn/ledspectrum](https://gitee.com/leannnnnnn/ledspectrum)
   
 使用E**SP32开发板**作为主控制器，64个单线串联RGB**彩色灯板**，**麦克风**采集声音，根据不同节奏和音高显示在RGB灯板上，形成炫酷的彩虹律动灯光效果。
 
