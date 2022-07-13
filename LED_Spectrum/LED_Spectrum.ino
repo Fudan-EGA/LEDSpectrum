@@ -60,7 +60,7 @@ void setup(){
   sampling_period_us = round(1000000*(1.0/samplingFrequency)); //计算采样频率
   pinMode(CHANNEL,INPUT); //初始化麦克风接口为输入模式，表示读取麦克风数据
   
-  FastLED.addLeds<LED_TYPE, LED_PIN, COLOR_ORDER>(leds, NUM_LEDS);//初始化LED灯条
+  FastLED.addLeds<LED_TYPE, LED_PIN, COLOR_ORDER>(leds, NUM_LEDS);//初始化LED灯带
   FastLED.setBrightness( BRIGHTNESS ); //LED亮度设置，取值范围为0-255
   
 }
