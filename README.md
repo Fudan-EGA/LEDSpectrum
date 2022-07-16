@@ -16,18 +16,16 @@
 
 ### 1. 购买清单和链接
 
-* ESP32开发板  [https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L](https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L) 
-- 灯板ws2812b RGB屏8x8点阵 [https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L](https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L)
-* 麦克风MAX4466  [https://m.tb.cn/h.fEgPlFB?tk=4eN42pXJJN4](https://m.tb.cn/h.fEgPlFB?tk=4eN42pXJJN4)
-  **注意**：该麦克风模块排针没有焊接，需要**自行焊接**（只有三个点，焊接非常简单）
-- 公对母+母对母杜邦线 [https://m.tb.cn/h.fE9hgap?tk=GFwX2pSC4Lj](https://m.tb.cn/h.fE9hgap?tk=GFwX2pSC4Lj)
+|名称|链接|备注|
+|:-:|:-:|:-:|
+|ESP32开发板|  [淘宝](https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L) |核心板+底板|
+|灯板ws2812b  |[淘宝](https://m.tb.cn/h.fwVQ4Ek?tk=Kidt2pXJR1L)|选择8x8点阵|
+|麦克风MAX4466 | [淘宝](https://m.tb.cn/h.fEgPlFB?tk=4eN42pXJJN4)|**注意**：排针没有焊接，需要**自行焊接**|
+|杜邦线 |[淘宝](https://m.tb.cn/h.fE9hgap?tk=GFwX2pSC4Lj)|型号选公对母+母对母，长度合适就行|
 
+入门级电烙铁推荐购买：[https://m.tb.cn/h.fDhTaXj?tk=Wunk2pSxYYK](https://m.tb.cn/h.fDhTaXj?tk=Wunk2pSxYYK)
 
-    入门级电烙铁推荐购买：[https://m.tb.cn/h.fDhTaXj?tk=Wunk2pSxYYK](https://m.tb.cn/h.fDhTaXj?tk=Wunk2pSxYYK)
-
-
-
-* **一键下单**： [https://m.tb.cn/h.fDhTWez](https://m.tb.cn/h.fDhTWez) 手机淘宝打开，购物车打包链接，含以上全部商品，型号已经选好，直接购买即可
+**一键下单**： [https://m.tb.cn/h.fDhTWez](https://m.tb.cn/h.fDhTWez) 手机淘宝打开，购物车打包链接，含以上全部商品，型号已经选好，直接购买即可
 
 ### 2. 模块功能介绍
 * **ESP32开发板+拓展板：**\
